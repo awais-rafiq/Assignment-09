@@ -1,0 +1,1 @@
+// a program to delete  all dblicate element of array

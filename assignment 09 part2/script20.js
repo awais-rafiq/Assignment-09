@@ -1,0 +1,1 @@
+to sort even an odd element of araraay seperatly
